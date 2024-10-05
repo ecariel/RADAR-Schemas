@@ -13,6 +13,10 @@ data:
     topic: questionnaire_gierveld
     value_schema: .active.questionnaire.Questionnaire
     questionnaire_definition_url: https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/gierveld/gierveld_armt.json
+  - type: AUDITUPM
+    topic: questionnaire_auditupm
+    value_schema: .active.questionnaire.Questionnaire
+    questionnaire_definition_url: https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/auditupm/auditupm_armt.json
   - type: COMPLETION_LOG
     doc: Information about the completeness of each questionnaire.
     topic: questionnaire_completion_log
